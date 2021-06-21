@@ -11,8 +11,9 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	justify-content: center;
+	justify-content: flex-end;
 	height: 100vh;
+	background-color: rgb(77, 75, 75);
 	overflow: hidden;
 }
 
@@ -27,7 +28,38 @@ body {
 	filter: blur(30px);
 }
 
+.card {
+	display: flex;
+	align-items: center;
+	background-color: white;
+	height: 7rem;
+	border-radius: 10px;
+	box-shadow: 0 16px 16px rgba(70, 38, 38, 0.5), 0 32px 32px rgba(0, 0, 0, 0.4), 0 64px 64px rgba(0, 0, 0, 0.3), 0 128px 128px rgba(0, 0, 0, 0.2);
+	margin-bottom: 35px;
+}
+
 .loading-text {
 	font-size: 50px;
-	color: #fff;
+	color: rgb(116, 116, 116);
+	border-left: 1px solid red;
+	padding: 0 25px 0 25px;
+}
+
+.btn {
+	width: auto;
+	font-size: 14px;
+	padding: 10px 25px;
+	border: none;
+	border-radius: 5px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	margin: 35px;
+	background-color: red;
+	color: white;
+	transition: all 0.3s;
+	cursor: pointer;
+}
+
+.btn:hover {
+	transform: scale(1.1);
 }
