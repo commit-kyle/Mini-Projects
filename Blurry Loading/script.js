@@ -17,6 +17,7 @@ const blurring = () => {
 
 	if (load < 100 && load > 0) {
 		loadText.innerText = `Clearing up - ${load}%`;
+		bg.style.filter = `blur(${scale(load, 0, 100, 30, 0)}px)`;
 		clearInterval(interval);
 	} else if (load > 99 && load < 101) {
 		loadText.innerText = `${load}% cleared up!`;
@@ -25,8 +26,6 @@ const blurring = () => {
 	} else {
 		return;
 	}
-
-	bg.style.filter = `blur(${scale(load, 0, 100, 30, 0)}px)`;
 };
 btn.addEventListener('click', () => {
 	let interval = setInterval(blurring, 40);
