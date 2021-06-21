@@ -2,10 +2,12 @@
 #### Made with HTML, CSS & JavaScript
 
 ## Table of contents
-* [General info](#general-info)
-* [Live website](#live-website)
+* [General Info](#general-info)
+* [Blurry Loading](#blurry-loading)
+* [Hidden Search Widget](#hidden-search-widget)
+* [Rotating Navigation](#rotating-navigation)
 
-## General info
+## General Info
 This repo hosts multiple mini-projects, each separated into their own branch. 
 
 Simply pick a branch and go through its README for a brief description, live demonstration and/or its code implementation. Alternatively, read further down and you'll be welcomed with their respective links to see them live.
