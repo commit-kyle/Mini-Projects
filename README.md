@@ -1,29 +1,15 @@
-# Mini Projects
-#### Made with HTML, CSS & JavaScript
+# Progress Steps
 
 ## Table of contents
-* [General Info](#general-info)
-* [Blurry Loading](#blurry-loading)
-* [Hidden Search Widget](#hidden-search-widget)
-* [Rotating Navigation](#rotating-navigation)
+* [General info](#general-info)
+* [Live website](#live-website)
 
-## General Info
-This repo hosts multiple mini-projects, each separated into their own branch. 
+## General info
+Within this mini-project we introduce you to steps for no particular task. 
+Each steps is highlighted and some animation is shown when transitioning between steps.
 
-Simply pick a branch and go through its README for a brief description, live demonstration and/or its code implementation. Alternatively, read further down and you'll be welcomed with their respective links to see them live.
+## Live website
+The link for a live demonstration of how this app works can be found here; 
+[Progress Steps](https://steps-progress.netlify.app)
 
-I hope you enjoy browsing through this list of small projects!
-
-## Blurry Loading 
-Here you go! 
-[Blurry Loading](https://load-blur.netlify.app)
-
-## Hidden Search Widget 
-Here you go! 
-[Hidden Search Widget](https://hidden-widget.netlify.app/)
-
-## Rotating Navigation 
-Here you go! 
-[Rotating navigation](https://nav-rotate.netlify.app)
-
-Enjoy :)
+I hope you've enjoyed it!
