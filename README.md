@@ -6,6 +6,8 @@
 * [Blurry Loading](#blurry-loading)
 * [Hidden Search Widget](#hidden-search-widget)
 * [Rotating Navigation](#rotating-navigation)
+* [Progress Steps](#progress-steps)
+* [Expanding Cards](#expanding-cards)
 
 ## General Info
 This repo hosts multiple mini-projects, each separated into their own branch. 
@@ -14,16 +16,27 @@ Simply pick a branch and go through its README for a brief description, live dem
 
 I hope you enjoy browsing through this list of small projects!
 
-## Blurry Loading 
-Here you go! 
-[Blurry Loading](https://load-blur.netlify.app)
+## Projects
+A list of these mini projects along with their live links can be seen below :)
 
-## Hidden Search Widget 
+### Blurry Loading 
 Here you go! 
-[Hidden Search Widget](https://hidden-widget.netlify.app/)
+[LIVE demo](https://load-blur.netlify.app)
 
-## Rotating Navigation 
+### Hidden Search Widget 
 Here you go! 
-[Rotating navigation](https://nav-rotate.netlify.app)
+[LIVE demo](https://hidden-widget.netlify.app)
+
+### Rotating Navigation 
+Here you go! 
+[LIVE demo](https://nav-rotate.netlify.app)
+
+### Progress Steps
+Here you go!
+[LIVE demo](https://steps-progress.netlify.app)
+
+### Expanding Cards
+Here you go!
+[LIVE demo](https://cards-expand.netlify.app)
 
 Enjoy :)
