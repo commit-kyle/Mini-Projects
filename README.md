@@ -4,11 +4,6 @@
 ## Table of contents
 * [General Info](#general-info)
 * [Projects](#projects)
-* [Blurry Loading](#blurry-loading)
-* [Hidden Search Widget](#hidden-search-widget)
-* [Rotating Navigation](#rotating-navigation)
-* [Progress Steps](#progress-steps)
-* [Expanding Cards](#expanding-cards)
 
 ## General Info
 This repo hosts multiple mini-projects, each separated into their own branch. 
@@ -20,24 +15,16 @@ I hope you enjoy browsing through this list of small projects!
 ## Projects
 A list of these mini projects along with their live links can be seen below :)
 
-### Blurry Loading 
-Here you go! 
-[LIVE demo](https://load-blur.netlify.app)
+- Blurry Loading - [LIVE demo](https://load-blur.netlify.app)
 
-### Hidden Search Widget 
-Here you go! 
-[LIVE demo](https://hidden-widget.netlify.app)
+- Hidden Search Widget - [LIVE demo](https://hidden-widget.netlify.app)
 
-### Rotating Navigation 
-Here you go! 
-[LIVE demo](https://nav-rotate.netlify.app)
+- Rotating Navigation - [LIVE demo](https://nav-rotate.netlify.app)
 
-### Progress Steps
-Here you go!
-[LIVE demo](https://steps-progress.netlify.app)
+- Progress Steps - [LIVE demo](https://steps-progress.netlify.app)
 
-### Expanding Cards
-Here you go!
-[LIVE demo](https://cards-expand.netlify.app)
+- Expanding Cards - [LIVE demo](https://cards-expand.netlify.app)
 
 Enjoy :)
+
+[![Last Commit](https://img.shields.io/github/last-commit/commit-kyle/mini-projects)](https://img.shields.io/github/last-commit/commit-kyle/mini-projects)
