@@ -29,6 +29,8 @@ A list of these mini projects along with their live links can be seen below :)
 
 - Split Landing Page - [LIVE demo](https://landing-split.netlify.app)
 
+- Wavy Form - [LIVE demo](https://wavy-form.netlify.app)
+
 Enjoy :)
 
 [![Last Commit](https://img.shields.io/github/last-commit/commit-kyle/mini-projects)](https://img.shields.io/github/last-commit/commit-kyle/mini-projects)
