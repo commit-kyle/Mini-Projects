@@ -10,6 +10,6 @@ We advertise the Playstation 5 and the Xbox Series X by splitting them into thei
 
 ## Live website
 The link for a live demonstration of how this app works can be found here; 
-[Scroll Animation](https://landing-split.netlify.app)
+[Split Landing Page](https://landing-split.netlify.app)
 
 I hope you've enjoyed it!
