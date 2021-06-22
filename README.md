@@ -25,6 +25,8 @@ A list of these mini projects along with their live links can be seen below :)
 
 - Expanding Cards - [LIVE demo](https://cards-expand.netlify.app)
 
+- Scroll Animation - [LIVE demo](https://animate-scroll.netlify.app)
+
 Enjoy :)
 
 [![Last Commit](https://img.shields.io/github/last-commit/commit-kyle/mini-projects)](https://img.shields.io/github/last-commit/commit-kyle/mini-projects)
