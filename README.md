@@ -3,6 +3,7 @@
 
 ## Table of contents
 * [General Info](#general-info)
+* [Projects](#projects)
 * [Blurry Loading](#blurry-loading)
 * [Hidden Search Widget](#hidden-search-widget)
 * [Rotating Navigation](#rotating-navigation)
